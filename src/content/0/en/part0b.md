@@ -35,7 +35,7 @@ The server and the web browser communicate with each other using the [HTTP](http
 When you reload the page (press the F5 key or the &#8635; symbol on your browser), and the console will show that two events have happened:
 
 - The browser has fetched the contents of the page <i>studies.cs.helsinki.fi/exampleapp</i> from the server
-- And has downloaded the image <i>kuva.png</i>
+- The browser has downloaded the image <i>kuva.png</i>
 
 ![Screenshot of the developer console showing these two events](../../images/0/2e.png)
 

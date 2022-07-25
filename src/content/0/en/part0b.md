@@ -32,7 +32,7 @@ Make sure that the <i>Network</i> tab is open, and check the <i>Disable cache</i
 
 The server and the web browser communicate with each other using the [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) protocol. The <i>Network</i> tab shows how the browser and the server communicate.
 
-When you reload the page (press the F5 key or the &#8635; symbol on your browser), and the console will show that two events have happened:
+When you reload the page (press the F5 key or the &#8635; symbol on your browser) the console will show that two events have happened:
 
 - The browser has fetched the contents of the page <i>studies.cs.helsinki.fi/exampleapp</i> from the server
 - And has downloaded the image <i>kuva.png</i>
